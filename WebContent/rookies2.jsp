@@ -105,7 +105,7 @@
                   <input type="hidden" name="usertype" value="admin">
                    </div>
                 </div>
-                <div class="g-recaptcha" data-sitekey="6LdbQVMqAAAAADYYVCPY80yQ5Kt-Q8hqiBUy8ubR"></div> <!--리캡챠 -->
+                <div class="g-recaptcha" data-sitekey="6LfesWEqAAAAALVkNSEMNYjBLHDgKPlBARLzdGLA"></div> <!--리캡챠 -->
                 <div class="row">
                     <div class="col-md-12 text-center">
                         <button type="submit" class="btn btn-success">Login</button>
